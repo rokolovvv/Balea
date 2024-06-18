@@ -1,6 +1,7 @@
 {
   "name": "w27",
   "version": "0.1.0",
+  "homepage": "https://rokolovvv.github.io/Balea/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.4",

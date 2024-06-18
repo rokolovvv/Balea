@@ -19,7 +19,7 @@ function App() {
     <div className="App">
       <h1 style={{ marginBottom: '-40px' }}>Balea</h1>
       <h4>Your own ToDo list</h4>
-      <Paper sx={{ padding: "1rem", marginBottom: "0px", display: "flex", alignItems: "center", flexDirection: "column" }} elevation={3}>
+      <Paper sx={{ padding: "1rem", marginBottom: '0px', display: 'flex', alignItems: 'center', flexDirection: 'column' }} elevation={3}>
         {inputs.map((input, index) => (
           <div key={index} style={{ display: 'flex', alignItems: 'center', margin: '-10px 0' }}>
             <TextField
